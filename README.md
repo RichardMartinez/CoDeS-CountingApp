@@ -1,7 +1,7 @@
-## CoDeS Counting App
+# CoDeS Counting App
 A simple counting game that allows researchers to study how young children learn.
 
-# Primary Developers:
+## Primary Developers:
 - Richard Martinez
 - Mason Young
 - Aaryan Mehra

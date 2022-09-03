@@ -1,0 +1,8 @@
+# IDE Files
+.vs/
+.vs_code/
+.code_workspace
+/.idea/
+
+# Mac OS
+.DS_Store
